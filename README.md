@@ -12,10 +12,10 @@ The goal of this project is to convert numbers from one base to another, such as
 
 
 ##### Types of system that will be included in this project are : 
-* 1) Binary (0-1)
-* 2) Octal (0-7)
-* 3) Decimal (0-9)
-* 4) HexaDecimal (0-9 , A-F)
+* 1) Binary [0-1]
+* 2) Octal [0-7]
+* 3) Decimal [0-9]
+* 4) HexaDecimal [0-9 , A-F]
 
 
 ##### The project includes various topics learned throughout the course such as:
